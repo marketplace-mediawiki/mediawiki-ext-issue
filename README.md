@@ -1,8 +1,8 @@
-# Information / Информация
+# Information
 
 Интеграция информационных сообщений в статью.
 
-## Install / Установка
+## Install
 
 1. Загрузите папки и файлы в директорию `extensions/MW_EXT_Issue`.
 2. В самый низ файла `LocalSettings.php` добавьте строку:
@@ -11,12 +11,12 @@
 wfLoadExtension( 'MW_EXT_Issue' );
 ```
 
-## Syntax / Синтаксис
+## Syntax
 
 ```html
 {{#issue: [TYPE-1]|[TYPE-2]|[TYPE-3]}}
 ```
 
-## Donations / Пожертвования
+## Donations
 
 - [Donation Form](https://donation-form.github.io/)
